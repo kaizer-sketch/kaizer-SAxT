@@ -2,7 +2,7 @@ module.exports = {
   config: {
     name: "goiadmin",
     version: "1.0.0",
-    author: "Siegfried Samá",
+    author: "Edward",
     countDown: 0,
     role: 0,
     description: {
@@ -24,6 +24,7 @@ module.exports = {
       "My admin is currently sleeping 😪",
       "Wag mo i-tag admin ko gagu, baka mabigawasan kita 😠 ",
       "My admin is busy right now 🤪"
+      "anong kailangan mo sa boss ko?👌😆"
     ];
 
     const taggedAdminIDs = Object.keys(mentions || {});
